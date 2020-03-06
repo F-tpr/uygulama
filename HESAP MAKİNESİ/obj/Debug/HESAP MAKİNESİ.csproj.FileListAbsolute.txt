@@ -1,0 +1,9 @@
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\HESAP MAKİNESİ.exe.config
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\HESAP MAKİNESİ.exe
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\HESAP MAKİNESİ.pdb
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.csprojResolveAssemblyReference.cache
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP_MAKİNESİ.Form1.resources
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP_MAKİNESİ.Properties.Resources.resources
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.csproj.GenerateResource.Cache
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.exe
+c:\users\berat\documents\visual studio 2015\Projects\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.pdb
